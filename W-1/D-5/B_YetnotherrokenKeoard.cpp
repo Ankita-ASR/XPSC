@@ -8,9 +8,6 @@ int main() {
         string s;
         cin >> s;
       int n=s.size();
-      vec
-
- 
-                }
+          }
             
 }
